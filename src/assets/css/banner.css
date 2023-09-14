@@ -1,0 +1,45 @@
+.banner-content {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    align-items: flex-start;
+    justify-content: center;
+    min-height: 100%;
+    padding-left: 45px;
+}
+.banner-description {
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    max-width: 491px;
+    text-align: start;
+}
+.banner-title {
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    max-width: 584px;
+    text-align: start;
+}
+.discuss-btn {
+    max-width: 250px;
+    padding: 10px 40px;
+    border-radius: 50px;
+    border: 1px solid #FFF;
+    background: #FFF;
+    box-shadow: 0 4px 20px 0 rgba(255, 255, 255, 0.50);
+    color: #000;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 70px;
+}
+

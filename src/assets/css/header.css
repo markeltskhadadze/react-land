@@ -1,0 +1,26 @@
+.logo {
+    max-width: 272px;
+    max-height: 60px;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 45px;
+    position: fixed;
+    width: 100%;
+    background: #0c0c0ce0;
+}
+.header-nav {
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
