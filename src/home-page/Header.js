@@ -3,7 +3,7 @@ import { useSelector } from 'react-redux'
 import '../assets/css/header.css'
 
 export function Header() {
-    const nav = useSelector((state) => state.nav.headerNav)
+    const nav = useSelector((state) => state.header.headerNav)
 
     return (
         <div className='header-container'>

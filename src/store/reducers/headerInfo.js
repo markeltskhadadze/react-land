@@ -1,6 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit'
 
-export const headerInfo = createSlice({
+const headerInfo = createSlice({
     name: 'nav',
     initialState: {
         headerNav: [
